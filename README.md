@@ -1,4 +1,6 @@
-i code things sometimes
+My name is Chris, a BCS student at the University of British Columbia.
+
+I code things sometimes.
 
 <!---
 shaundano/shaundano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
