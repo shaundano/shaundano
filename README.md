@@ -1,6 +1,6 @@
 My name is Chris, a BCS student at the University of British Columbia.
 
-I code things sometimes. Digital minimalist, aspiring AI Safety researcher, triathlete. I swear I'm more fun in person
+I'm currently looking for a Fall 2025 Co-op, 4 months or 8 months. Let's connect!
 
 <!---
 shaundano/shaundano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
